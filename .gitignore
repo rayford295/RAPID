@@ -1,0 +1,13 @@
+# Local manuscript and submission artifacts
+paper/
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.pdf
+*.docx
+*.zip
+
+# macOS metadata
+.DS_Store

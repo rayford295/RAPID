@@ -1,7 +1,6 @@
 # RAPID: A Reproducible Multi-Agent Pipeline for Interpretable Disaster Damage Assessment from Satellite and Street-View Imagery
 
 <p align="center">
-  <a href="https://arxiv.org/abs/XXXX.XXXXX"><img src="https://img.shields.io/badge/arXiv-RAPID-b31b1b.svg" alt="arXiv"/></a>
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/>
   <img src="https://img.shields.io/badge/Python-3.8+-green.svg" alt="Python"/>
   <img src="https://img.shields.io/badge/Zero--Shot-Multi--Agent-orange.svg" alt="Zero-Shot"/>
@@ -12,7 +11,7 @@
 
 ## Abstract
 
-With the increasing frequency and intensity of extreme climate events, there is a growing demand for intelligent, scalable, and autonomous approaches to disaster damage assessment. Existing methods, largely based on supervised learning and task-specific fine-tuning, struggle to generalize under domain shifts, long-tailed data distributions, and heterogeneous geospatial data sources. This paper introduces **RAPID**, an autonomous multi-agent pipeline for interpretable disaster damage assessment — encompassing the assessment of damage levels, interpretation of damage types and degrees, and generation of actionable suggestions for response, remediation, and recovery.
+With the increasing frequency and intensity of extreme climate events, there is a growing demand for intelligent, scalable, and autonomous approaches to disaster damage assessment. Existing methods, largely based on supervised learning and task-specific fine-tuning, struggle to generalize under domain shifts, long-tailed data distributions, and heterogeneous geospatial data sources. This repository presents **RAPID**, an autonomous multi-agent pipeline for interpretable disaster damage assessment, including damage-level assessment, interpretation of damage types and degrees, and generation of actionable suggestions for response, remediation, and recovery.
 
 Unlike conventional approaches that rely on single-task supervised models, RAPID coordinates multiple specialized agents to perform cross-view understanding, image restoration, structured damage recognition, and geographical reasoning across heterogeneous data modalities. Without task-specific fine-tuning, RAPID supports **zero-shot damage assessment** by jointly leveraging complementary information from remote sensing and ground-level perspectives. Experiments show that RAPID achieves an overall accuracy of **0.92** on multi-disaster type classification and up to **0.627** on cross-view damage severity prediction.
 
@@ -23,7 +22,7 @@ Unlike conventional approaches that rely on single-task supervised models, RAPID
 ## Overview
 
 <p align="center">
-  <img src="https://github.com/rayford295/GeoAgent4Disaster/blob/main/figure/proposed%20framework.drawio.png" width="88%"/>
+  <img src="https://github.com/rayford295/RAPID/blob/main/figure/proposed%20framework.drawio.png" width="88%"/>
 </p>
 <p align="center"><i>Figure 1. RAPID: An Autonomous Multi-Agent Framework for Disaster Damage Intelligence</i></p>
 
@@ -75,7 +74,7 @@ Geographic coverage spans California and Florida, USA. Dataset A and B each cont
 
 | Geolocation Distribution | Dataset Statistics |
 |:---:|:---:|
-| <img src="https://github.com/rayford295/GeoAgent4Disaster/blob/main/figure/geolocation.png" width="340"/> | <img src="https://github.com/rayford295/GeoAgent4Disaster/blob/main/figure/stastics.png" width="340"/> |
+| <img src="https://github.com/rayford295/RAPID/blob/main/figure/geolocation.png" width="340"/> | <img src="https://github.com/rayford295/RAPID/blob/main/figure/stastics.png" width="340"/> |
 
 ---
 
@@ -112,7 +111,7 @@ Errors concentrate at adjacent severity levels, validating the role of NCSE as a
 ### Disaster Reasoning Agent — Report Quality
 
 <p align="center">
-  <img src="https://github.com/rayford295/Agent4Disaster/blob/main/figure/reasoning_RESULTs.drawio.png" width="82%"/>
+  <img src="https://github.com/rayford295/RAPID/blob/main/figure/reasoning_RESULTs.drawio.png" width="82%"/>
 </p>
 <p align="center"><i>LLM-based and human evaluation of multimodal disaster reasoning across Gemini-3-Pro, Gemini-2.5-Pro, and GPT-5.1</i></p>
 
@@ -120,7 +119,7 @@ Errors concentrate at adjacent severity levels, validating the role of NCSE as a
 
 | LLM-Based Object Detection | Final Structured Report |
 |:---:|:---:|
-| <img src="https://github.com/rayford295/GeoAgent4Disaster/blob/main/figure/example-llm-object%20detection.drawio.png" width="340"/> | <img src="https://github.com/rayford295/GeoAgent4Disaster/blob/main/figure/final%20output.png" width="340"/> |
+| <img src="https://github.com/rayford295/RAPID/blob/main/figure/example-llm-object%20detection.drawio.png" width="340"/> | <img src="https://github.com/rayford295/RAPID/blob/main/figure/final%20output.png" width="340"/> |
 
 ---
 
@@ -151,6 +150,7 @@ RAPID/
 
 ## Citation
 
+A formal citation will be added after a public preprint or publication is available.
 
 ---
 
