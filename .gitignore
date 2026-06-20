@@ -1,5 +1,5 @@
 # Local manuscript and submission artifacts
-paper/
+paper/*
 *.aux
 *.bbl
 *.blg
@@ -8,6 +8,12 @@ paper/
 *.pdf
 *.docx
 *.zip
+
+# Versioned manuscript release packages
+!paper/dist/
+paper/dist/*
+!paper/dist/README.md
+!paper/dist/*_arxiv_*.zip
 
 # macOS metadata
 .DS_Store
