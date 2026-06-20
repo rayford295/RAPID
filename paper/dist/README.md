@@ -1,9 +1,9 @@
 # Manuscript Release Packages
 
-This folder stores versioned manuscript source packages that are useful for release tracking.
+This folder stores the released manuscript PDF for version tracking.
 
 ## Files
 
-- `RAPID_for_Interpretable_Disaster_Damage_Assessment_arxiv_20260619.zip`: arXiv-safe LaTeX source package generated on 2026-06-19. It removes venue-specific SIGSPATIAL metadata while preserving the paper source, bibliography, ACM style files, and figures.
+- `RAPID_for_Interpretable_Disaster_Damage_Assessment_arxiv_20260619.pdf`: compiled arXiv version of the paper (2026-06-19).
 
-Local preview PDFs and conference-specific upload zips may exist in this directory, but they remain ignored unless explicitly added for release tracking.
+LaTeX source packages and conference-specific upload zips may exist locally, but they remain ignored and are not published here.
