@@ -4,6 +4,9 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"/>
   <img src="https://img.shields.io/badge/Python-3.8+-green.svg" alt="Python"/>
   <img src="https://img.shields.io/badge/Zero--Shot-Multi--Agent-orange.svg" alt="Zero-Shot"/>
+  <a href="https://arxiv.org/abs/2606.21819">
+    <img src="https://img.shields.io/badge/arXiv-2606.21819-b31b1b.svg" alt="arXiv"/>
+  </a>
 </p>
 
 
@@ -150,7 +153,9 @@ RAPID/
 
 ## Citation
 
-A formal citation will be added after a public preprint or publication is available.
+Paper: [https://arxiv.org/abs/2606.21819](https://arxiv.org/abs/2606.21819)
+
+Yang, Y., Gong, W., Zhang, K., Zou, L., Tu, Z., Li, H., Li, Z., & Ye, X. (2026). RAPID: A Reproducible Multi-Agent Pipeline for Interpretable Disaster Damage Assessment from Satellite and Street-View Imagery. ArXiv. [https://arxiv.org/abs/2606.21819](https://arxiv.org/abs/2606.21819)
 
 ---
 
