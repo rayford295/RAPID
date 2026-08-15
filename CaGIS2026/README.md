@@ -6,4 +6,6 @@ Extended abstract for the CaGIS Conference 2026 (Sept 8–11, 2026, St. Louis, M
 
 Yifan Yang, Lei Zou — Department of Geography, Texas A&M University
 
-The final camera-ready abstract will be added here once confirmed (submission deadline: August 15, 2026).
+✅ **Accepted for oral presentation.** Final extended abstract: [`CaGIS2026_RAPIDMap_Yifan_Lei.pdf`](./CaGIS2026_RAPIDMap_Yifan_Lei.pdf)
+
+Slides and presentation materials will be added before the conference.
