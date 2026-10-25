@@ -14,7 +14,7 @@
 
 ## 📢 News
 
-- **[Aug 2026]** 🎉 This work has been **accepted by ACM SIGSPATIAL 2026** and selected for an **oral presentation**. Conference materials will be uploaded to [`SIGSPATIAL2026/`](./SIGSPATIAL2026).
+- **[Aug 2026]** 🎉 This work has been **accepted by ACM SIGSPATIAL 2026** and selected for an **oral presentation**. Presentation slides are available in [`SIGSPATIAL2026/`](./SIGSPATIAL2026) ([PDF](./SIGSPATIAL2026/RAPID_SIGSPATIAL2026_slides.pdf)).
 - **[Aug 2026]** 🎉 The extended abstract **RAPIDMap** has been **accepted by the CaGIS 2026 Conference** (Sept 8–11, St. Louis, MO) for an **oral presentation**. See [`CaGIS2026/`](./CaGIS2026).
 
 ---

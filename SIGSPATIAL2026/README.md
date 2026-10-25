@@ -6,4 +6,9 @@ Accepted by ACM SIGSPATIAL 2026 · Oral presentation
 
 Yifan Yang, Lei Zou — Department of Geography, Texas A&M University
 
-Camera-ready paper, slides, and presentation materials will be uploaded here.
+## Presentation slides (Applications Track)
+
+- [`RAPID_SIGSPATIAL2026_slides.pdf`](./RAPID_SIGSPATIAL2026_slides.pdf) — PDF version for viewing in the browser
+- [`RAPID_SIGSPATIAL2026_slides.pptx`](./RAPID_SIGSPATIAL2026_slides.pptx) — editable PowerPoint source
+
+Camera-ready paper will be uploaded here.
